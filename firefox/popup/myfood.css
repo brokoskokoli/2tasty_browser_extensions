@@ -1,0 +1,24 @@
+html, body {
+  width: 100px;
+  background-color: #f9f9fa;
+  font-family: sans-serif;
+  text-align: center;
+  width: 150px;
+  color: black;
+}
+
+a {
+  color: rgb(10, 132, 255);
+}
+
+.button {
+  margin: 3% auto;
+  padding: 4px;
+  text-align: center;
+  cursor: pointer;
+  background-color: rgb(10, 132, 255);;
+  color: white;
+  border-radius: 4px;
+  text-decoration: none;
+  display: block;
+}
