@@ -1,10 +1,10 @@
 {
 
-  "description": "Add a recipe to myfood instance",
-  "manifest_version": 2,
-  "name": "MyFood",
-  "version": "0.2",
-  "homepage_url": "https://github.com/brokoskokoli/myfood",
+  "description": "Add a recipe to 2tasty instance",
+  "manifest_version": 3,
+  "name": "2tasty",
+  "version": "0.3",
+  "homepage_url": "https://github.com/brokoskokoli/2tasty",
   "icons": {
     "100": "icons/favicon.png"
   },
@@ -26,7 +26,7 @@
         "dark": "icons/favicon.png",
         "size": 32
     }],
-    "default_title": "MyFood",
+    "default_title": "2tasty",
     "default_popup": "popup/import_from_link.html"
   },
 
