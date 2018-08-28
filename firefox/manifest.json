@@ -1,9 +1,9 @@
 {
 
   "description": "Add a recipe to 2tasty instance",
-  "manifest_version": 3,
+  "manifest_version": 2,
   "name": "2tasty",
-  "version": "0.3",
+  "version": "0.2",
   "homepage_url": "https://github.com/brokoskokoli/2tasty",
   "icons": {
     "100": "icons/favicon.png"
